@@ -1,0 +1,8 @@
+{
+  "name": "POS Umbrella Hub",
+  "description": "A centralized hub for all Point On Solutions divisions, including Property Reset, Spark & Shield, and POS Business Tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
